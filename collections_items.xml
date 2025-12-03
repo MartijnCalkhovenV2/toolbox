@@ -1,0 +1,32 @@
+<collections>
+	<collection>
+		<id>x01</id>
+		<item>
+			<id>x01_1</id>
+		</item>
+		<item>
+			<id>x01_2</id>
+		</item>
+	</collection>
+	<collection>
+		<id>x02</id>
+		<item>
+			<id>x02_1</id>
+		</item>
+		<item>
+			<id>x02_2</id>
+		</item>
+		<item>
+			<id>x02_3</id>
+		</item>
+	</collection>
+	<collection>
+		<id>x03</id>
+		<item>
+			<id>x03_1</id>
+		</item>
+	</collection>
+	<collection>
+		<id>x04</id>
+	</collection>
+</collections>
