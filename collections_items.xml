@@ -3,27 +3,33 @@
 		<id>x01</id>
 		<item>
 			<id>x01_1</id>
+			<colour>red</colour>
 		</item>
 		<item>
 			<id>x01_2</id>
+			<colour>green</colour>
 		</item>
 	</collection>
 	<collection>
 		<id>x02</id>
 		<item>
 			<id>x02_1</id>
+			<colour>blue</colour>
 		</item>
 		<item>
 			<id>x02_2</id>
+			<colour>red</colour>
 		</item>
 		<item>
 			<id>x02_3</id>
+			<colour>green</colour>
 		</item>
 	</collection>
 	<collection>
 		<id>x03</id>
 		<item>
 			<id>x03_1</id>
+			<colour>blue</colour>
 		</item>
 	</collection>
 	<collection>
