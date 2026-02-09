@@ -1,0 +1,20 @@
+<brands>
+    <brand>
+        <brand_id>"Opel"</brand_id>
+        <tagline>"Wir leben Autos"</tagline>
+    </brand>
+</brands>
+<models>
+    <model>
+        <brand_id>"Opel"</brand_id>
+        <model_id>"Opel Corsa"</model_id>
+        <body_description>"Hatchback"</body_description>
+    </model>
+</models>
+<models>
+    <model>
+        <brand_id>"Opel"</brand_id>
+        <model_id>"Opel Astra"</model_id>
+        <body_description>"Sedan"</body_description>
+    </model>
+</models>
