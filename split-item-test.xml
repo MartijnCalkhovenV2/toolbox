@@ -1,1 +1,41 @@
-
+<items>
+	<item>
+		<id>123</id>
+		<colours>
+			<colour>red</colour>
+			<colour>blue</colour>
+			<colour>green</colour>
+		</colours>
+		<sizes>
+			<size>S</size>
+			<size>M</size>
+			<size>L</size>
+		</sizes>
+	</item>
+	<item>
+		<id>123</id>
+		<colours>
+			<colour>red</colour>
+			<colour>blue</colour>
+			<colour>green</colour>
+		</colours>
+		<sizes>
+			<size>S</size>
+			<size>M</size>
+			<size>L</size>
+		</sizes>
+	</item>
+	<item>
+		<id>123</id>
+		<colours>
+			<colour>red</colour>
+			<colour>blue</colour>
+			<colour>green</colour>
+		</colours>
+		<sizes>
+			<size>S</size>
+			<size>M</size>
+			<size>L</size>
+		</sizes>
+	</item>
+</items>
