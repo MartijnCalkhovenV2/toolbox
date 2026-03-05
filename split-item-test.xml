@@ -13,10 +13,9 @@
 		</sizes>
 	</item>
 	<item>
-		<id>123</id>
+		<id>456</id>
 		<colours>
 			<colour>red</colour>
-			<colour>blue</colour>
 			<colour>green</colour>
 		</colours>
 		<sizes>
@@ -26,7 +25,7 @@
 		</sizes>
 	</item>
 	<item>
-		<id>123</id>
+		<id>789</id>
 		<colours>
 			<colour>red</colour>
 			<colour>blue</colour>
@@ -34,7 +33,6 @@
 		</colours>
 		<sizes>
 			<size>S</size>
-			<size>M</size>
 			<size>L</size>
 		</sizes>
 	</item>
