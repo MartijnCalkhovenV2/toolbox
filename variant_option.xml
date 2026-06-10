@@ -1,6 +1,6 @@
 <items>
 	<item>
-		<id>123</id>
+		<id>9920</id>
 		<variant_option>
 			<name>shoe width</name>
 			<value>narrow</value>
@@ -16,7 +16,7 @@
 		<brand>Clarks</brand>
 	</item>
 	<item>
-		<id>123</id>
+		<id>9921</id>
 		<variant_option>
 			<name>shoe width</name>
 			<value>narrow</value>
@@ -32,7 +32,7 @@
 		<brand>Clarks</brand>
 	</item>
 	<item>
-		<id>123</id>
+		<id>9922</id>
 		<variant_option>
 			<name>shoe width</name>
 			<value>narrow</value>
