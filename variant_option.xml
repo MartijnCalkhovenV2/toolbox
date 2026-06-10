@@ -1,0 +1,50 @@
+<items>
+	<item>
+		<id>123</id>
+		<g:variant_option>
+			<g:name>shoe width</g:name>
+			<g:value>narrow</g:value>
+		</g:variant_option>
+		<g:variant_option>
+			<g:name>size</g:name>
+			<g:value>8</g:value>
+		</g:variant_option>
+		<g:variant_option>
+			<g:name>color</g:name>
+			<g:value>brown</g:value>
+		</g:variant_option>
+		<g:brand>Clarks</g:brand>
+	</item>
+	<item>
+		<id>123</id>
+		<g:variant_option>
+			<g:name>shoe width</g:name>
+			<g:value>narrow</g:value>
+		</g:variant_option>
+		<g:variant_option>
+			<g:name>size</g:name>
+			<g:value>9</g:value>
+		</g:variant_option>
+		<g:variant_option>
+			<g:name>color</g:name>
+			<g:value>brown</g:value>
+		</g:variant_option>
+		<g:brand>Clarks</g:brand>
+	</item>
+	<item>
+		<id>123</id>
+		<g:variant_option>
+			<g:name>shoe width</g:name>
+			<g:value>narrow</g:value>
+		</g:variant_option>
+		<g:variant_option>
+			<g:name>size</g:name>
+			<g:value>10</g:value>
+		</g:variant_option>
+		<g:variant_option>
+			<g:name>color</g:name>
+			<g:value>brown</g:value>
+		</g:variant_option>
+		<g:brand>Clarks</g:brand>
+	</item>
+</items>
