@@ -1,6 +1,9 @@
 <items>
 	<item>
-		<id>9920</id>
+		<variant_option>
+			<name>id</name>
+			<value>9920</value>
+		</variant_option>
 		<variant_option>
 			<name>shoe width</name>
 			<value>narrow</value>
@@ -14,9 +17,13 @@
 			<value>brown</value>
 		</variant_option>
 		<brand>Clarks</brand>
+		<item_group_id>9900</item_group_id>
 	</item>
 	<item>
-		<id>9921</id>
+		<variant_option>
+			<name>id</name>
+			<value>9921</value>
+		</variant_option>
 		<variant_option>
 			<name>shoe width</name>
 			<value>narrow</value>
@@ -30,9 +37,13 @@
 			<value>brown</value>
 		</variant_option>
 		<brand>Clarks</brand>
+		<item_group_id>9900</item_group_id>
 	</item>
 	<item>
-		<id>9922</id>
+		<variant_option>
+			<name>id</name>
+			<value>9922</value>
+		</variant_option>
 		<variant_option>
 			<name>shoe width</name>
 			<value>narrow</value>
@@ -46,5 +57,6 @@
 			<value>brown</value>
 		</variant_option>
 		<brand>Clarks</brand>
+		<item_group_id>9900</item_group_id>
 	</item>
 </items>
